@@ -58,4 +58,4 @@ It gives the mean,sum,min value,max value of the array
 ```bash
 np.intersect1d(array1,array2)
 ```
-To explore and understand more, Practice this kaggle's 100 exercise 
+To explore and understand more, Go thrpugh my Numpy_tasks project 
