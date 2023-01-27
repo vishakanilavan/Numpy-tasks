@@ -1,5 +1,5 @@
 
-# Numpy-Exercise
+# Numpy-Exercises
 
   In this task,The basic 100 exercises for better understanding of Numpy library is executed.
   Numpy helps in python for handling
